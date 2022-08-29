@@ -21,6 +21,8 @@ python3 E-Bomber.py
 # Video:
 ## [Here](https://www.youtube.com/watch?v=Hh7faGac-B4)
 
-### Instagram: https://instagram.com/GorioFuma
-### YouTube: https://www.youtube.com/channel/UCgnL7U1bWnzjwGePCkIByCQ
-### Donations: https://paypal.me/GorioFuma
+#### Instagram: https://instagram.com/GorioFuma
+#### YouTube: https://www.youtube.com/channel/UCgnL7U1bWnzjwGePCkIByCQ
+#### Donations: https://paypal.me/GorioFuma
+### Credits:
+#### If you want use my project please give me my credits :)
