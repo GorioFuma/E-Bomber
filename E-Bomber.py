@@ -38,7 +38,7 @@ def banner():
 |______|        |____/ \___/|_| |_| |_|_.__/ \___|_|
 """
     print(red+title)
-    print(cyan+"GitHub: "+white+"https://github.cpm/GorioFuma")
+    print(cyan+"GitHub: "+white+"https://github.com/GorioFuma")
     print(cyan+"Instagram: "+white+"https://instagram.com/GorioFuma")
     print(cyan+"Donations: "+white+"https://paypal.me/GorioFuma\n")
     
